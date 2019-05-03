@@ -1,2 +1,2 @@
 # Connect-Mobile
-Connect platform in mobile
+A mobile version for the Connect idea.
